@@ -51,3 +51,4 @@ btn = tk.Button(root, text="Check Strength", command=check_strength)
 btn.pack(pady=10)
 
 root.mainloop()
+
